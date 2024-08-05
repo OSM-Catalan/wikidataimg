@@ -30,15 +30,11 @@
     "images",
     {
       "question": {
-        "en": "What date do you have check this item?",
-		    "ca": "Quina data de comprovació té aquest ítem?",
-			"es": "¿Qué fecha de comprobación tiene este ítem?"
+        "ca": "Quina data de comprovació té aquest ítem?"
       },
       "id": "1_jdked7qmdy25aw2",
       "render": {
-        "en": "Check date is {check_date}",
-		    "ca": "La data de comprovació és {check_date}",
-			"es": "La fecha de comprobación es {check_date}"
+        "ca": "La data de comprovació és {check_date}"
       },
       "freeform": {
         "key": "check_date",
@@ -54,14 +50,10 @@
   ],
   "id": "wikidataimg",
   "name": {
-    "en": "wikidataimg",
-    "ca": "wikidataimg",
-    "es": "wikidataimg"
+    "ca": "wikidataimg"
   },
   "description": {
-    "en": "Add images from wikimedia articles.",
-    "ca": "Afegeix imatges d'articles de wikimedia",
-    "es": "Añadir imágenes sobre un artículo de wikimedia"
+    "ca": "Afegeix imatges d'articles de wikimedia"
   },
   "source": {
     "osmTags": {
@@ -73,9 +65,7 @@
   },
   "title": {
     "render": {
-      "en": "{name} || wikipedia: {wikipedia} || wikidata:{wikidata}",
-      "ca": "{name} || wikipedia: {wikipedia} || wikidata:{wikidata}",
-      "es": "{name} || wikipedia: {wikipedia} || wikidata:{wikidata}"
+      "ca": "{name} || wikipedia: {wikipedia} || wikidata:{wikidata}"
     }
   },
   "shownByDefault": true,
