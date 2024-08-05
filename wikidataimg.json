@@ -53,7 +53,7 @@
     "ca": "wikidataimg"
   },
   "description": {
-    "ca": "Afegeix imatges d'articles de wikimedia"
+    "ca": "Afegeix imatges d'articles de wikimedia."
   },
   "source": {
     "osmTags": {
